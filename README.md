@@ -1,2 +1,2 @@
 # smbms
-idea+maven+smbms
+ Idea+maven+smbms
